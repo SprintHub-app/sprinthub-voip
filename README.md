@@ -14,7 +14,7 @@ Para entrar no aplicativo é preciso se autenticar através da tela de login. En
 
 Depois de logado escolha quais ações deseja tomar dentro do aplicativo. Você tem opções como Discador, visualizar os contatos, ver o histórico de ligações e demais como configurações e ajustes:
 
-![menu](https://i.ibb.co/LdWWTZ28/Captura-de-Tela-2025-11-17-a-s-08-41-26.png)
+![menuu](https://i.ibb.co/LdWWTZ28/Captura-de-Tela-2025-11-17-a-s-08-41-26.png)
 
 ## Baixar e Instalar
 
@@ -22,6 +22,25 @@ Siga os passos abaixo para fazer o download do Aplicativo e instalar em seu comp
 
 ### Windows
 
+1. Faça o download:
+[Download Windows](https://google.com/)
+2. Execute o instalador
+3. Caso apareça a janela de proteção, clique em "Mais informações" e coloque para executar:
+![protect](https://i.ibb.co/hRCscKB6/unnamed.png)
+4. Abra o aplicativo
+
 ### MacOS
 
-### Linux
+1. Faça o download:
+[Download MacOS](https://google.com/)
+2. Execute o instalador
+3. Caso apareça uma janela de permissão do MacOS, vá em configurações e permita "Desenvolvedores Desconhecidos":
+![macosprotectother](https://i.ibb.co/GQkZNfb2/Captura-de-Tela-2025-11-17-a-s-09-09-59.png)
+4. Abra o aplicativo
+
+### Linux (debian, )
+
+1. Faça o download:
+[Download Linux](https://google.com/)
+2. Extraia os arquivos
+3. Abra o aplicativo
