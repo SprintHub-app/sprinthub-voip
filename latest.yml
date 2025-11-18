@@ -1,0 +1,8 @@
+version: 1.0.0
+path: sprinthub_voip.exe
+sha512: 0cdjASDkjnasdlkNqwej_asdasd...==
+releaseDate: '2025-11-18T00:00:00.000Z'
+files:
+  - url: https://github.com/SprintHub-app/sprinthub-voip/sprinthub_voip.exe
+    sha512: 0cdjASDkjnasdlkNqwej_asdasd...==
+    size: 51234567
