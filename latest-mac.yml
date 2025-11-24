@@ -1,0 +1,12 @@
+# get data iso "date -u +"%Y-%m-%dT%H:%M:%SZ"
+# get sha512 "shasum -a 512 sprinthub-voip-1.0.0-arm64.dmg"
+# get size "stat -f%z sprinthub-voip-1.0.0-arm64.dmg"
+
+version: 1.0.0
+releaseDate: 2025-11-24T19:39:17Z
+path: sprinthub-voip-1.0.0-arm64
+sha512: b2f282663cf0eb660d4ebe7ef91566acf14ef933159cabc5efb21fa53de0b589883eaaea525f179da646528c700bce0bbd7ade4538d16574ad5eb561a4fec222
+files:
+  - url: sprinthub-voip-1.0.0-arm64
+    sha512: b2f282663cf0eb660d4ebe7ef91566acf14ef933159cabc5efb21fa53de0b589883eaaea525f179da646528c700bce0bbd7ade4538d16574ad5eb561a4fec222
+    size: 134167328
