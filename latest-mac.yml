@@ -1,9 +1,9 @@
 version: 1.0.0
 files:
-  - url: sprinthub-voip-1.0.0-arm64-mac.zip
+  - url: https://github.com/SprintHub-app/sprinthub-voip/releases/download/macos/sprinthub-voip-1.0.0-arm64-mac.zip
     sha512: EFMpwg74kjJ/t2W88sBb07M2oTJkdoDMv2rsK5SBO2fFHIIrBDM3yDj+oDlCfzcm1Ch62y7v0m5uOfkcUWrTHw==
     size: 129164479
-  - url: sprinthub-voip-1.0.0-arm64.dmg
+  - url: https://github.com/SprintHub-app/sprinthub-voip/releases/download/macos/sprinthub-voip-1.0.0-arm64.dmg
     sha512: svKCZjzw62YNTr5++RVmrPFO+TMVnKvF77IfpT3gtYmIPqrqUl8XnaZGUoxwC84LvXreRTjRZXStXrVhpP7CIg==
     size: 134167328
 path: sprinthub-voip-1.0.0-arm64-mac.zip
