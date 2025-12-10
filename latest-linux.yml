@@ -1,9 +1,9 @@
-version: 1.4.0
+version: 1.5.0
 files:
-  - url: https://github.com/SprintHub-app/sprinthub-voip/releases/download/1.4.0/SprintHub.VoIP-1.4.0.AppImage
-    sha512: PsczkMw4wpA+6cLQVJILiUcuNyCa4PSl+SQsiid11/COOh8mL+OOG0alHnD0gE9EMJlbEvJfc8Lv50d0B5hFKg==
-    size: 144486164
-    blockMapSize: 151336
-path: https://github.com/SprintHub-app/sprinthub-voip/releases/download/1.4.0/SprintHub.VoIP-1.4.0.AppImage
-sha512: PsczkMw4wpA+6cLQVJILiUcuNyCa4PSl+SQsiid11/COOh8mL+OOG0alHnD0gE9EMJlbEvJfc8Lv50d0B5hFKg==
-releaseDate: "2025-12-03T19:10:12.122Z"
+  - url: https://github.com/SprintHub-app/sprinthub-voip/releases/download/1.5.0/SprintHub.VoIP-1.5.0.AppImage
+    sha512: dHSIN9kCUJXKk7CdeKoJ1I7TATSSVZkFKTfxWFpxQZopG5qMYeNtGs/eMIr180wYAE7wPvlxjsM+8fszksyOxA==
+    size: 144486232
+    blockMapSize: 151404
+path: https://github.com/SprintHub-app/sprinthub-voip/releases/download/1.5.0/SprintHub.VoIP-1.5.0.AppImage
+sha512: dHSIN9kCUJXKk7CdeKoJ1I7TATSSVZkFKTfxWFpxQZopG5qMYeNtGs/eMIr180wYAE7wPvlxjsM+8fszksyOxA==
+releaseDate: "2025-12-09T13:30:55.321Z"

@@ -1,11 +1,11 @@
-version: 1.4.0
+version: 1.5.0
 files:
-  - url: https://github.com/SprintHub-app/sprinthub-voip/releases/download/1.4.0/SprintHub.VoIP-1.4.0-arm64-mac.zip
-    sha512: XwfP7+jqmJt/f8LxsSCM51vUNSKmBgJ8FJ7KlmXsDQ4xXbhnWg46GeX3ZqgOB9HnN8j+zuOcYoEWRCDd0nPiSw==
-    size: 131700516
-  - url: https://github.com/SprintHub-app/sprinthub-voip/releases/download/1.4.0/SprintHub.VoIP-1.4.0-arm64.dmg
-    sha512: +14SjKiAU7NEorehH0K6EredsZobkHHVMtcha0e45dI04ZFA+e05/GTDEapgE/HqGrNTJVqMLlm9fGbA5HRaqQ==
-    size: 137330489
-path: https://github.com/SprintHub-app/sprinthub-voip/releases/download/1.4.0/SprintHub.VoIP-1.4.0-arm64-mac.zip
-sha512: XwfP7+jqmJt/f8LxsSCM51vUNSKmBgJ8FJ7KlmXsDQ4xXbhnWg46GeX3ZqgOB9HnN8j+zuOcYoEWRCDd0nPiSw==
-releaseDate: "2025-12-03T18:47:33.801Z"
+  - url: https://github.com/SprintHub-app/sprinthub-voip/releases/download/1.5.0/SprintHub.VoIP-1.5.0-arm64-mac.zip
+    sha512: 24ZiOaOH4N6DZoU27azvh19XDSpLEO7YAvOQRwCeiQyICyTR1APXkxChXnPKzt5JsTgqG/t+8/Y6nOA9CgmrTQ==
+    size: 131700959
+  - url: https://github.com/SprintHub-app/sprinthub-voip/releases/download/1.5.0/SprintHub.VoIP-1.5.0-arm64.dmg
+    sha512: 1eQX8SROG9eJJhpC+9kSY869Hd+sLlCFZV8SpjHl3AAs9aOrpkW6LZa2wCqGvAojtkH/w0NbX1a+m0tFI9TcFA==
+    size: 137344757
+path: https://github.com/SprintHub-app/sprinthub-voip/releases/download/1.5.0/SprintHub.VoIP-1.5.0-arm64-mac.zip
+sha512: 24ZiOaOH4N6DZoU27azvh19XDSpLEO7YAvOQRwCeiQyICyTR1APXkxChXnPKzt5JsTgqG/t+8/Y6nOA9CgmrTQ==
+releaseDate: "2025-12-09T12:20:43.264Z"
