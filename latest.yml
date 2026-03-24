@@ -1,8 +1,8 @@
-version: 1.6.0
+version: 1.7.0
 files:
-  - url: https://github.com/SprintHub-app/sprinthub-voip/releases/download/1.6.0/SprintHub.VoIP.Setup.1.6.0.exe
-    sha512: nJ2GtlSmdemxgeURbAsKkiywrrlA8vQuHGDk4r3PDHSGbKxwBJJ4ByutjmsDIOd8MrtCh+9C/JypfkHZvErE1w==
-    size: 105314827
-path: SprintHub VoIP Setup 1.6.0.exe
-sha512: nJ2GtlSmdemxgeURbAsKkiywrrlA8vQuHGDk4r3PDHSGbKxwBJJ4ByutjmsDIOd8MrtCh+9C/JypfkHZvErE1w==
-releaseDate: '2026-03-24T11:43:33.702Z'
+  - url: https://github.com/SprintHub-app/sprinthub-voip/releases/download/1.7.0/SprintHub.VoIP.Setup.1.7.0.exe
+    sha512: tbEapZVHrhgxzHWVio3k+1UGZ5wzmnpI95h2yFLtIrj2OxV/HnU0hapmCsnPmzUmf6Cy2moE2wh1M8eT/tVCuw==
+    size: 105315424
+path: SprintHub VoIP Setup 1.7.0.exe
+sha512: tbEapZVHrhgxzHWVio3k+1UGZ5wzmnpI95h2yFLtIrj2OxV/HnU0hapmCsnPmzUmf6Cy2moE2wh1M8eT/tVCuw==
+releaseDate: '2026-03-24T12:52:22.900Z'
