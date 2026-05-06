@@ -25,7 +25,7 @@ O instalador do SprintHub VoIP fica disponível dentro do próprio SprintHub. Ac
 
 **Configurações do sistema > VoIP > Aplicativo VoIP**
 
-![Tela de download do aplicativo VoIP](docs/0_download.png)
+![Tela de download do aplicativo VoIP](0_download.png)
 
 Nessa tela você encontra:
 
@@ -44,7 +44,7 @@ Ao abrir o instalador pela primeira vez, o sistema operacional pode exibir um al
 
 ### Windows
 
-![Aviso do Windows SmartScreen](docs/0_safe_windows.png)
+![Aviso do Windows SmartScreen](0_safe_windows.png)
 
 Quando o aviso **“O Windows protegeu o computador”** aparecer:
 
@@ -53,7 +53,7 @@ Quando o aviso **“O Windows protegeu o computador”** aparecer:
 
 ### macOS
 
-![Privacidade e Segurança no macOS](docs/0_safe_macos.png)
+![Privacidade e Segurança no macOS](0_safe_macos.png)
 
 No macOS, abra **Configurações do Sistema > Privacidade e Segurança**:
 
@@ -69,7 +69,7 @@ No macOS, abra **Configurações do Sistema > Privacidade e Segurança**:
 
 A primeira tela é a de acesso. Informe os dados fornecidos pela sua empresa para entrar.
 
-![Tela de login](docs/1_screen_login.png)
+![Tela de login](1_screen_login.png)
 
 Campos obrigatórios:
 
@@ -87,7 +87,7 @@ Clique em **Entrar** para acessar o aplicativo.
 
 Após o login, você cai no menu principal. É a partir daqui que você navega entre todas as funções do app.
 
-![Menu principal](docs/2_screen_menu.png)
+![Menu principal](2_screen_menu.png)
 
 Opções disponíveis:
 
@@ -104,7 +104,7 @@ No canto inferior direito você vê a versão atual do aplicativo.
 
 Use esta tela para encontrar rapidamente quem você quer chamar.
 
-![Tela de contatos](docs/3_screen_contacts.png)
+![Tela de contatos](3_screen_contacts.png)
 
 Como funciona:
 
@@ -121,7 +121,7 @@ Para voltar ao menu principal, use o ícone de **casa** no canto superior direit
 
 Aqui você acompanha todas as chamadas registradas, com data, duração e número.
 
-![Histórico de ligações](docs/4_screen_call_history.png)
+![Histórico de ligações](4_screen_call_history.png)
 
 O que cada item mostra:
 
@@ -138,7 +138,7 @@ O ícone à esquerda indica o tipo de chamada — atendida, perdida ou de saída
 
 O discador é a forma mais direta de fazer uma ligação manual.
 
-![Tela do discador](docs/5_screen_dialer.png)
+![Tela do discador](5_screen_dialer.png)
 
 Como usar:
 
@@ -155,7 +155,7 @@ A bandeira no canto superior esquerdo identifica o país do número detectado.
 
 Antes de completar a ligação, você escolhe **de qual número** a chamada será feita. Útil quando sua empresa tem múltiplas linhas.
 
-![Seleção do número de saída](docs/6_screen_choose_out_number.png)
+![Seleção do número de saída](6_screen_choose_out_number.png)
 
 O que aparece nesta tela:
 
@@ -171,7 +171,7 @@ Toque no número que deseja usar como origem da chamada. A ligação começa aut
 
 Durante a ligação, esta é a tela principal. Ela mostra todas as informações da chamada ativa.
 
-![Chamada em andamento](docs/7_screen_calling.png)
+![Chamada em andamento](7_screen_calling.png)
 
 Informações exibidas:
 
@@ -194,7 +194,7 @@ Controles na barra inferior:
 
 Esta tela aparece quando você toca no botão **#** durante uma ligação. É usada para navegar em menus automáticos (URAs), digitar ramais ou enviar códigos.
 
-![Teclado durante a chamada](docs/8_screen_calling_keyboard.png)
+![Teclado durante a chamada](8_screen_calling_keyboard.png)
 
 Como usar:
 
